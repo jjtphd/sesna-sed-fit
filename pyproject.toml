@@ -9,7 +9,7 @@ description = "SED fitting and Bayesian imputation tools for the SESNA survey"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Josh Taylor", email = "joshtaylor@utexas.edu"}
+    {name = "Joshua J. Taylor", email = "joshtaylor@utexas.edu"}
 ]
 requires-python = ">=3.9"
 dependencies = [
